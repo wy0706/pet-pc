@@ -4,7 +4,12 @@ import {
     Tooltip,
     Dropdown,
     Menu,
-    Avatar,
+    Row,
+    Col,
+    Form,
+    Input,
+    Checkbox,
+    Divider,
 } from 'ant-design-vue'; //局部功能使用
 // import Antd from 'ant-design-vue'; //全局使用
 export default defineNuxtPlugin((nuxtApp) => {
@@ -14,6 +19,11 @@ export default defineNuxtPlugin((nuxtApp) => {
         .use(ConfigProvider)
         .use(Menu)
         .use(Tooltip)
-        .use(Avatar)
+        .use(Row)
+        .use(Col)
+        .use(Form)
+        .use(Input)
+        .use(Checkbox)
+        .use(Divider)
         .use(Dropdown); //局部功能使用
 });

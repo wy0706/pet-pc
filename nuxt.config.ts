@@ -3,8 +3,10 @@ import { createStyleImportPlugin, AntdResolve } from 'vite-plugin-style-import';
 // const path = require('path');
 export default defineNuxtConfig({
     srcDir: 'src/',
+    app: {},
     modules: ['@pinia/nuxt', '@pinia-plugin-persistedstate/nuxt'],
     devtools: { enabled: true },
+
     vite: {
         plugins: [
             createStyleImportPlugin({

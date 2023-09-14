@@ -1,0 +1,107 @@
+import demoImg from '../assets/images/demo.png';
+
+export const data = [
+    {
+        type: 'hot',
+        title: '热门推荐',
+        id: 1,
+        children: [
+            {
+                id: 2,
+                key: 'hot',
+                title: 'DarkCideS: Bats in Caves Data',
+                desc: ` and discuss working with data. In our search we realized we'll never find the One True Dataset, so we started developing this collection of curated datasets.`,
+                avater: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+                username: 'Gareth Peat',
+                img: demoImg,
+            },
+            {
+                id: 3,
+                key: 'hot',
+                title: 'Plot Overview for Matplotlib Users',
+                desc: `If you're used to working in Python and creating charts using Matplotlib, this notebook will walk you through related concepts in Observable Plot and how to conceptualize making charts with Plot.`,
+                avater: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+                img: demoImg,
+                username: 'Andy Shapiro',
+            },
+            {
+                id: 4,
+                key: 'hot',
+                title: 'Shorthand / Observable Plot',
+                desc: `We designed Observable Plot’s API to be succinct so that when you want to visualize data, you can do it quickly and without struggling to remember Plot’s API.
+        This notebook showcases Plot’s “shorthand” syntax`,
+                avater: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+                img: demoImg,
+                username: 'ee2dev',
+            },
+        ],
+    },
+    {
+        type: 'aviation',
+        title: '营养健康',
+        id: 5,
+        children: [
+            {
+                id: 6,
+                key: 'aviation',
+                title: 'DarkCideS: Bats in Caves Data',
+                avater: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+                img: demoImg,
+                username: 'Andy Shapiro',
+                desc: `If you're used to working in Python and creating charts using Matplotlib, this notebook will walk you through related concepts in Observable Plot and how to conceptualize making charts with Plot.`,
+            },
+            {
+                id: 7,
+                key: 'aviation',
+                title: 'Stars and constellations',
+                avater: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+                img: '',
+                username: 'Gareth Peat',
+                desc: `If you're used to working in Python and creating charts using Matplotlib, this notebook will walk you through related concepts in Observable Plot and how to conceptualize making charts with Plot.`,
+            },
+            {
+                id: 8,
+                key: 'aviation',
+                title: 'Distributions and summary statistics - a collection of Plot examples',
+                avater: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+                img: demoImg,
+                username: 'ee2dev',
+                desc: `If you're used to working in Python and creating charts using Matplotlib, this notebook will walk you through related concepts in Observable Plot and how to conceptualize making charts with Plot.`,
+            },
+            {
+                id: 9,
+                key: 'aviation',
+                title: 'DarkCideS: Bats in Caves Data',
+                avater: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+                img: '',
+                username: 'ee2dev',
+                desc: `If you're used to working in Python and creating charts using Matplotlib, this notebook will walk you through related concepts in Observable Plot and how to conceptualize making charts with Plot.`,
+            },
+            {
+                id: 10,
+                key: 'aviation',
+                title: 'DarkCideS: Bats in Caves Data',
+                avater: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+                img: demoImg,
+                username: 'rysebaert',
+                desc: `If you're used to working in Python and creating charts using Matplotlib, this notebook will walk you through related concepts in Observable Plot and how to conceptualize making charts with Plot.`,
+            },
+        ],
+    },
+    {
+        type: 'aviation',
+        title: '考证领域',
+        id: 5,
+        children: [
+            {
+                id: 66,
+                key: 'aviation',
+                title: 'DarkCideS: Bats in Caves Data',
+                avater: 'https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png',
+                img: demoImg,
+                username: 'Andy Shapiro',
+                desc: `If you're used to working in Python and creating charts using Matplotlib, this notebook will walk you through related concepts in Observable Plot and how to conceptualize making charts with Plot.`,
+            },
+        ],
+    },
+];

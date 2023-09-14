@@ -61,3 +61,4 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+##  <NuxtLink to="/home/home"> 标题{{ item.title }}</NuxtLink>

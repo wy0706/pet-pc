@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>火热_fire备份@8x</title>
+    <g id="中文" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-56.000000, -202.000000)">
+            <g id="火热_fire备份" transform="translate(56.000000, 202.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,22 C16.11735,22 19.4999,18.7371 19.4999,14.54905 C19.4999,13.5209 19.44765,12.41875 18.87775,10.7058 C18.30785,8.9929 18.19305,8.7718 17.59045,7.71395 C17.333,9.8727 15.9555,10.7724 15.60555,11.0413 C15.60555,10.76155 14.77225,7.66795 13.5088,5.81695 C12.2685,4 10.5817,2.80796 9.59265,2 C9.59265,3.534885 9.16095,5.81695 8.5427,6.9797 C7.92445,8.14245 7.80835,8.1848 7.0361,9.0501 C6.2639,9.9154 5.90945,10.18265 5.2637,11.23255 C4.61798,12.2825 4.5,13.6809 4.5,14.70905 C4.5,18.8971 7.88265,22 12,22 Z" id="路径" stroke="#EA5E00" stroke-width="2" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

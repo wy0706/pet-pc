@@ -1,5 +1,5 @@
 export default {
-    app: 'Pet Knowledge Sharing',
+    app: 'Pet Sharing',
     login: 'Login',
     register: 'Register',
 };

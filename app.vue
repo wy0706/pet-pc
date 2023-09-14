@@ -1,7 +1,7 @@
 <template>
     <div>
         <a-config-provider :locale="currentLang">
-            <NuxtPage></NuxtPage>
+            <NuxtPage />
         </a-config-provider>
     </div>
 </template>
@@ -43,20 +43,3 @@ function switchLangFun(val: string) {
     }
 }
 </script>
-<style>
-html,
-body {
-    height: 100%;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-}
-</style>
-
-function watch(currentLang: any, arg1: (val: any) => void) { throw new
-Error('Function not implemented.'); } function ref(arg0: any) { throw new
-Error('Function not implemented.'); } function switchLangFun(getStateLang: any):
-any { throw new Error('Function not implemented.'); } function
-watch(currentLang: any, arg1: (val: any) => void) { throw new Error('Function
-not implemented.'); } function functionswitchLangFun(val: any, string: any) {
-throw new Error('Function not implemented.'); }
